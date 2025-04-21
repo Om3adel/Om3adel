@@ -1,6 +1,6 @@
-<!-- Header image or profile photo -->
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://your-image-link-here" width="150" style="border-radius: 50%;" alt="Omar's Avatar" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/omar.jpg" width="150" style="border-radius: 50%;" alt="Omar Mohamed Adel" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Omar Mohamed Adel</h1>
@@ -63,13 +63,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0mer3adl&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mer3adl&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
 
 > *"Turning data into insight and satellites into safe travelers."* 🚀
+
 
 
 
