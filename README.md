@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Om3adel/YOUR_REPO_NAME/main/assets/omar_dynamic.jpg" width="150" style="border-radius: 50%;" alt="Omar Mohamed Adel - Digital Profile" />
+  <img src="https://raw.githubusercontent.com/Om3adel/Om3adel/main/assets/omar_dynamic.jpg" width="150" style="border-radius: 50%;" alt="Omar Mohamed Adel - Digital Profile" />
 </p>
 
 
