@@ -1,29 +1,68 @@
-## Hi there 👋
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+# 👨‍🚀 Omar Mohamed Adel
 
-<h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
-<h3 align="center">A Data Scientist and Space Technology Enthusiast from Cairo</h3>
+**Data Scientist | Space Technology Enthusiast | Python Developer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omar-Mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-Mohamed" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
-- 🔭 I’m currently working on 
+📍 Cairo, Egypt  
+📫 [Email](0mer3adl@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omar-mohamed-adel)
 
-- 📫 How to reach me *0mer3adl@gmail.com*
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"></a> </p>
+I’m a Data Scientist with a strong foundation in Navigation Science and Space Technology. Passionate about leveraging **machine learning**, **data visualization**, and **predictive modeling** to solve real-world problems—especially in the space environment.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Mohamed&show_icons=true&locale=en&layout=compact" alt="Omar-Mohamed" /></p>
+Currently, I’m contributing to cutting-edge satellite collision prediction projects at the **Egyptian Space Agency** and pursuing a **Data Science scholarship** as part of the prestigious **Digital Egypt Pioneers Initiative**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omar-Mohamed&show_icons=true&locale=en" alt="Omar-Mohamed" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mohamed&" alt="Omar-Mohamed" /></p>
+## 🛰️ Projects & Internships
 
-<!--
+- **🔭 Satellite Collision Probability Evaluation – EGSA**  
+  Developed a predictive framework with 95% accuracy to identify critical satellite collision hazards, improving space operations safety for over 150 satellites.
+
+- **🧭 Orbit Determination & Propagation – EGSA**  
+  Analyzed TLE data and built a real-time GUI to visualize orbital mechanics and support mission planning.
+
+- **📊 Udemy Course Analysis (Capstone Project)**  
+  Analyzed course trends using Python and visualized data to derive insights on course popularity, pricing, and engagement.
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Tools**: Python, SQL, Git, GitHub, Arduino IDE, LabVIEW  
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
+- **Platforms**: Power BI, Jupyter Notebook  
+- **Specialties**: Machine Learning, EDA, Data Cleaning, Interactive Dashboards  
+- **Space Tech**: Orbital Mechanics, TLE Data Analysis, Remote Sensing
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Sc. in Navigation Science and Space Technology** – Beni-Suef University (2023)  
+- **Data Science Diploma** – Digital Egypt Pioneers Initiative (2025)  
+- **Diploma in Data Analytics** – IMT School (2025)
+
+---
+
+## ❤️ Volunteering
+
+- **Egyptian Red Crescent Society**  
+  Supported logistics and emergency response in North Sinai.
+
+---
+
+## 🌐 Languages
+
+- Arabic: Native  
+- English: Fluent (reading, writing), Intermediate (speaking)
+
+---
+
+> "Data is the new fuel for innovation, especially when it orbits around solving space problems." 🚀
+
+
 **Om3adel/Om3adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
