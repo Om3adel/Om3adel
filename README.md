@@ -1,7 +1,8 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Om3adel/Om3adel/main/assets/omar_dynamic.jpg" width="150" style="border-radius: 50%;" alt="Omar Mohamed Adel - Digital Profile" />
+  <img src="picture.jpg" width="200" style="border-radius:50%; border:3px solid white; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
 </p>
+
 
 
 <h1 align="center">Hi there 👋, I'm Omar Mohamed Adel</h1>
