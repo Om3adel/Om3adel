@@ -1,7 +1,7 @@
 <!-- ================== MISSION CONTROL · Omar Mohamed Adel ================== -->
 
 <p align="center">
-  <img src="./assets/mission-banner.svg" width="100%" alt="Omar Mohamed Adel - Data Analyst and Power BI Specialist" />
+  <img src="/assets/mission-banner.svg?v=2" width="100%" alt="Omar Mohamed Adel - Data Analyst and Power BI Specialist" />
 </p>
 
 <p align="center">
