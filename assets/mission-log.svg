@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 504" width="900" height="504" role="img" aria-label="Mission log: Data Analyst at MCIT (current); DEPI Data Analyst &amp; Power BI Specialist Track; DEPI Data Scientist Scholarship; Satellite Collision Probability Intern at EGSA; ITI Software Engineering Development Fundamentals; Orbit Determination &amp; Propagation Analysis Intern at EGSA.">
+  <title>Mission log: Data Analyst at MCIT (current); DEPI Data Analyst &amp; Power BI Specialist Track; DEPI Data Scientist Scholarship; Satellite Collision Probability Intern at EGSA; ITI Software Engineering Development Fundamentals; Orbit Determination &amp; Propagation Analysis Intern at EGSA.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b15"/><stop offset="1" stop-color="#07070d"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".75"/><stop offset=".55" stop-color="#06b6d4" stop-opacity=".25"/><stop offset="1" stop-color="#06b6d4" stop-opacity=".6"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset=".6" stop-color="#06b6d4" stop-opacity=".5"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glowP" cx=".9" cy="0" r=".7"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowC" cx="0" cy="1" r=".7"><stop offset="0" stop-color="#06b6d4" stop-opacity=".18"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace; }
+    .tw { animation: tw 4s ease-in-out infinite; } .tw2 { animation-delay: -1.5s; } .tw3 { animation-delay: -2.8s; }
+    @keyframes tw { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+    .rise { animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+
+  
+  <rect width="900" height="504" rx="18" fill="url(#bg)"/>
+  <rect width="900" height="504" rx="18" fill="url(#glowP)"/>
+  <rect width="900" height="504" rx="18" fill="url(#glowC)"/>
+  <rect x="1" y="1" width="898" height="502" rx="17" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <g><circle class="tw" cx="253.2" cy="37.5" r="1.32" fill="#ffffff"/><circle class="tw tw2" cx="266.1" cy="343.0" r="1.44" fill="#a5f3fc"/><circle class="tw tw3" cx="102.0" cy="115.4" r="1.33" fill="#c4b5fd"/><circle class="tw" cx="135.8" cy="68.6" r="1.38" fill="#ffffff"/><circle class="tw tw2" cx="742.4" cy="412.6" r="1.04" fill="#a5f3fc"/><circle class="tw tw3" cx="497.0" cy="349.5" r="0.70" fill="#c4b5fd"/><circle class="tw" cx="674.5" cy="89.1" r="0.74" fill="#ffffff"/><circle class="tw tw2" cx="750.0" cy="345.7" r="0.62" fill="#a5f3fc"/><circle class="tw tw3" cx="198.3" cy="321.0" r="0.72" fill="#c4b5fd"/><circle class="tw" cx="294.6" cy="225.2" r="1.43" fill="#ffffff"/><circle class="tw tw2" cx="513.8" cy="268.2" r="1.30" fill="#a5f3fc"/><circle class="tw tw3" cx="330.8" cy="156.1" r="0.73" fill="#c4b5fd"/><circle class="tw" cx="120.9" cy="98.7" r="0.97" fill="#ffffff"/><circle class="tw tw2" cx="258.8" cy="306.3" r="0.62" fill="#a5f3fc"/><circle class="tw tw3" cx="219.6" cy="484.6" r="0.94" fill="#c4b5fd"/><circle class="tw" cx="378.4" cy="339.8" r="1.40" fill="#ffffff"/><circle class="tw tw2" cx="210.1" cy="81.8" r="1.49" fill="#a5f3fc"/><circle class="tw tw3" cx="89.7" cy="424.7" r="0.68" fill="#c4b5fd"/><circle class="tw" cx="392.2" cy="66.3" r="1.14" fill="#ffffff"/><circle class="tw tw2" cx="592.6" cy="224.9" r="1.44" fill="#a5f3fc"/><circle class="tw tw3" cx="165.9" cy="102.2" r="1.07" fill="#c4b5fd"/><circle class="tw" cx="387.2" cy="412.4" r="1.30" fill="#ffffff"/><circle class="tw tw2" cx="731.4" cy="357.4" r="0.70" fill="#a5f3fc"/><circle class="tw tw3" cx="673.5" cy="147.3" r="1.45" fill="#c4b5fd"/><circle class="tw" cx="588.5" cy="496.0" r="1.22" fill="#ffffff"/><circle class="tw tw2" cx="851.4" cy="101.5" r="1.29" fill="#a5f3fc"/></g>
+  <line x1="70" y1="50" x2="70" y2="474" stroke="url(#edge)" stroke-width="2.5"/>
+  <circle r="4" fill="#67e8f9" filter="url(#glow)">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M70 474 L70 50"/>
+  </circle>
+  <g style="animation-delay:0s">
+      <circle class="pulse" cx="70" cy="70" r="14" fill="#34d399" fill-opacity=".25"/>
+      <circle cx="70" cy="70" r="8" fill="#0b0b15" stroke="#34d399" stroke-width="3"/>
+      <circle cx="70" cy="70" r="3" fill="#34d399"/>
+      <rect x="104" y="40" width="760" height="60" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".07"/>
+      <text x="126" y="66" font-size="17" font-weight="700" fill="#ffffff">Data Analyst</text>
+      <text x="126" y="88" font-size="13.5" fill="#a1a1aa">Ministry of Communications and Information Technology (MCIT)</text>
+      <rect x="768.8" y="57" width="75.19999999999999" height="26" rx="13" fill="#34d399" fill-opacity=".13" stroke="#34d399" stroke-opacity=".6"/>
+      <text x="806.4" y="75" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="1.5" fill="#34d399">CURRENT</text>
+    </g><g style="animation-delay:0.1s">
+      
+      <circle cx="70" cy="144" r="8" fill="#0b0b15" stroke="#a78bfa" stroke-width="3"/>
+      <circle cx="70" cy="144" r="3" fill="#a78bfa"/>
+      <rect x="104" y="114" width="760" height="60" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".07"/>
+      <text x="126" y="140" font-size="17" font-weight="700" fill="#ffffff">Data Analyst &amp; Power BI Specialist Track</text>
+      <text x="126" y="162" font-size="13.5" fill="#a1a1aa">Digital Egypt Pioneers Initiative (DEPI)</text>
+      <rect x="761.2" y="131" width="82.8" height="26" rx="13" fill="#a78bfa" fill-opacity=".13" stroke="#a78bfa" stroke-opacity=".6"/>
+      <text x="802.6" y="149" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="1.5" fill="#a78bfa">TRAINING</text>
+    </g><g style="animation-delay:0.2s">
+      
+      <circle cx="70" cy="218" r="8" fill="#0b0b15" stroke="#a78bfa" stroke-width="3"/>
+      <circle cx="70" cy="218" r="3" fill="#a78bfa"/>
+      <rect x="104" y="188" width="760" height="60" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".07"/>
+      <text x="126" y="214" font-size="17" font-weight="700" fill="#ffffff">Data Scientist Scholarship · 300-hour program</text>
+      <text x="126" y="236" font-size="13.5" fill="#a1a1aa">Digital Egypt Pioneers Initiative (DEPI)</text>
+      <rect x="738.4" y="205" width="105.6" height="26" rx="13" fill="#a78bfa" fill-opacity=".13" stroke="#a78bfa" stroke-opacity=".6"/>
+      <text x="791.2" y="223" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="1.5" fill="#a78bfa">SCHOLARSHIP</text>
+    </g><g style="animation-delay:0.30000000000000004s">
+      
+      <circle cx="70" cy="292" r="8" fill="#0b0b15" stroke="#06b6d4" stroke-width="3"/>
+      <circle cx="70" cy="292" r="3" fill="#06b6d4"/>
+      <rect x="104" y="262" width="760" height="60" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".07"/>
+      <text x="126" y="288" font-size="17" font-weight="700" fill="#ffffff">Satellite Collision Probability Intern</text>
+      <text x="126" y="310" font-size="13.5" fill="#a1a1aa">Egyptian Space Agency (EGSA)</text>
+      <rect x="746" y="279" width="98" height="26" rx="13" fill="#06b6d4" fill-opacity=".13" stroke="#06b6d4" stroke-opacity=".6"/>
+      <text x="795" y="297" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="1.5" fill="#06b6d4">INTERNSHIP</text>
+    </g><g style="animation-delay:0.4s">
+      
+      <circle cx="70" cy="366" r="8" fill="#0b0b15" stroke="#f9a8d4" stroke-width="3"/>
+      <circle cx="70" cy="366" r="3" fill="#f9a8d4"/>
+      <rect x="104" y="336" width="760" height="60" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".07"/>
+      <text x="126" y="362" font-size="17" font-weight="700" fill="#ffffff">Software Engineering Development Fundamentals</text>
+      <text x="126" y="384" font-size="13.5" fill="#a1a1aa">Information Technology Institute (ITI)</text>
+      <rect x="761.2" y="353" width="82.8" height="26" rx="13" fill="#f9a8d4" fill-opacity=".13" stroke="#f9a8d4" stroke-opacity=".6"/>
+      <text x="802.6" y="371" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="1.5" fill="#f9a8d4">TRAINING</text>
+    </g><g style="animation-delay:0.5s">
+      
+      <circle cx="70" cy="440" r="8" fill="#0b0b15" stroke="#06b6d4" stroke-width="3"/>
+      <circle cx="70" cy="440" r="3" fill="#06b6d4"/>
+      <rect x="104" y="410" width="760" height="60" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".07"/>
+      <text x="126" y="436" font-size="17" font-weight="700" fill="#ffffff">Orbit Determination &amp; Propagation Analysis Intern</text>
+      <text x="126" y="458" font-size="13.5" fill="#a1a1aa">Egyptian Space Agency (EGSA)</text>
+      <rect x="746" y="427" width="98" height="26" rx="13" fill="#06b6d4" fill-opacity=".13" stroke="#06b6d4" stroke-opacity=".6"/>
+      <text x="795" y="445" text-anchor="middle" class="mono" font-size="11.5" letter-spacing="1.5" fill="#06b6d4">INTERNSHIP</text>
+    </g>
+</svg>

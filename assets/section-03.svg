@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 78" width="900" height="78" role="img" aria-label="FEATURED MISSIONS // selected projects">
+  <title>FEATURED MISSIONS // selected projects</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b15"/><stop offset="1" stop-color="#07070d"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".75"/><stop offset=".55" stop-color="#06b6d4" stop-opacity=".25"/><stop offset="1" stop-color="#06b6d4" stop-opacity=".6"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset=".6" stop-color="#06b6d4" stop-opacity=".5"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glowP" cx=".9" cy="0" r=".7"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowC" cx="0" cy="1" r=".7"><stop offset="0" stop-color="#06b6d4" stop-opacity=".18"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace; }
+    .tw { animation: tw 4s ease-in-out infinite; } .tw2 { animation-delay: -1.5s; } .tw3 { animation-delay: -2.8s; }
+    @keyframes tw { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+    .rise { animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+
+  <g><circle class="tw" cx="689.6" cy="24.2" r="1.12" fill="#ffffff"/><circle class="tw tw2" cx="112.3" cy="56.4" r="1.08" fill="#a5f3fc"/><circle class="tw tw3" cx="7.9" cy="36.5" r="0.86" fill="#c4b5fd"/><circle class="tw" cx="751.3" cy="74.8" r="0.85" fill="#ffffff"/><circle class="tw tw2" cx="17.7" cy="48.0" r="1.40" fill="#a5f3fc"/><circle class="tw tw3" cx="882.1" cy="66.5" r="1.11" fill="#c4b5fd"/><circle class="tw" cx="119.3" cy="6.9" r="1.24" fill="#ffffff"/><circle class="tw tw2" cx="804.4" cy="57.5" r="1.26" fill="#a5f3fc"/><circle class="tw tw3" cx="612.5" cy="17.0" r="0.66" fill="#c4b5fd"/><circle class="tw" cx="818.5" cy="73.8" r="0.71" fill="#ffffff"/><circle class="tw tw2" cx="897.4" cy="26.4" r="0.88" fill="#a5f3fc"/><circle class="tw tw3" cx="324.2" cy="63.3" r="0.64" fill="#c4b5fd"/><circle class="tw" cx="374.0" cy="61.1" r="1.28" fill="#ffffff"/><circle class="tw tw2" cx="521.6" cy="52.2" r="1.37" fill="#a5f3fc"/></g>
+  <!-- planet icon with ring -->
+  <g transform="translate(40 39)">
+    <circle r="15" fill="url(#accent)" opacity=".95"/>
+    <circle r="15" fill="none" stroke="#fff" stroke-opacity=".25"/>
+    <ellipse rx="25" ry="7" fill="none" stroke="#a78bfa" stroke-width="2" transform="rotate(-20)" opacity=".9"/>
+    <circle cx="-5" cy="-5" r="4" fill="#fff" opacity=".35"/>
+  </g>
+  <text x="80" y="36" class="mono" font-size="12" letter-spacing="3" fill="#67e8f9">03 · SECTION</text>
+  <text x="80" y="62" font-size="26" font-weight="800" letter-spacing="2.5" fill="#ffffff">FEATURED MISSIONS</text>
+  <text x="446.5" y="62" class="mono" font-size="13" fill="#a1a1aa">// selected projects</text>
+  <rect x="80" y="72" width="780" height="2" rx="1" fill="url(#fade)"/>
+  <circle cx="80" cy="73" r="3.5" fill="#06b6d4" filter="url(#glow)"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300" role="img" aria-label="Sales Trend &amp; Performance Analytics Dashboard: $2.26M revenue · $402K profit (2015–2018). Power BI report + interactive web dashboard: seasonality, quarters and regions.">
+  <title>Sales Trend &amp; Performance Analytics Dashboard: $2.26M revenue · $402K profit (2015–2018). Power BI report + interactive web dashboard: seasonality, quarters and regions.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b15"/><stop offset="1" stop-color="#07070d"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".75"/><stop offset=".55" stop-color="#06b6d4" stop-opacity=".25"/><stop offset="1" stop-color="#06b6d4" stop-opacity=".6"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset=".6" stop-color="#06b6d4" stop-opacity=".5"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glowP" cx=".9" cy="0" r=".7"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowC" cx="0" cy="1" r=".7"><stop offset="0" stop-color="#06b6d4" stop-opacity=".18"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace; }
+    .tw { animation: tw 4s ease-in-out infinite; } .tw2 { animation-delay: -1.5s; } .tw3 { animation-delay: -2.8s; }
+    @keyframes tw { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+    .rise { animation: rise .9s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    .moon { animation: orbit 6s linear infinite; transform-origin: 0 0; } @keyframes orbit { to { transform: rotate(-360deg) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+
+  
+  <rect width="440" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="440" height="300" rx="18" fill="url(#glowP)"/>
+  <rect width="440" height="300" rx="18" fill="url(#glowC)"/>
+  <rect x="1" y="1" width="438" height="298" rx="17" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <g><circle class="tw" cx="368.0" cy="202.5" r="1.35" fill="#ffffff"/><circle class="tw tw2" cx="299.9" cy="175.3" r="0.96" fill="#a5f3fc"/><circle class="tw tw3" cx="328.7" cy="255.8" r="0.73" fill="#c4b5fd"/><circle class="tw" cx="197.5" cy="268.9" r="1.02" fill="#ffffff"/><circle class="tw tw2" cx="89.7" cy="39.6" r="1.30" fill="#a5f3fc"/><circle class="tw tw3" cx="188.7" cy="293.0" r="1.06" fill="#c4b5fd"/><circle class="tw" cx="237.8" cy="254.0" r="0.67" fill="#ffffff"/><circle class="tw tw2" cx="420.4" cy="47.7" r="1.40" fill="#a5f3fc"/><circle class="tw tw3" cx="39.6" cy="99.0" r="0.93" fill="#c4b5fd"/><circle class="tw" cx="159.0" cy="232.9" r="1.43" fill="#ffffff"/><circle class="tw tw2" cx="81.8" cy="274.5" r="1.48" fill="#a5f3fc"/><circle class="tw tw3" cx="431.4" cy="48.7" r="1.45" fill="#c4b5fd"/></g>
+  <!-- orbit decoration -->
+  <g transform="translate(386 58)" opacity=".9">
+    <circle r="18" fill="#ec4899" fill-opacity=".85"/>
+    <circle cx="-5" cy="-5" r="5" fill="#fff" opacity=".3"/>
+    <ellipse rx="34" ry="10" fill="none" stroke="#ec4899" stroke-opacity=".7" stroke-width="1.5" transform="rotate(-18)"/>
+    <g class="moon"><circle cx="34" cy="0" r="3" fill="#ffffff"/></g>
+  </g>
+  <text x="28" y="42" class="mono" font-size="11" letter-spacing="2.2" fill="#ec4899">MISSION 04 · RETAIL ANALYTICS</text>
+  <text x="28" y="74" font-size="21" font-weight="800" fill="#ffffff">Sales Trend &amp; Performance</text>
+  <text x="28" y="100" font-size="21" font-weight="800" fill="#ffffff">Analytics Dashboard</text>
+  <text x="28" y="148" font-size="34" font-weight="800" fill="url(#accent)">$2.26M</text>
+  <text x="28" y="170" font-size="13" fill="#a1a1aa">revenue · $402K profit (2015–2018)</text>
+  <text x="28" y="204" font-size="13.5" fill="#d4d4d8">Power BI report + interactive web dashboard:</text>
+  <text x="28" y="224" font-size="13.5" fill="#d4d4d8">seasonality, quarters and regions.</text>
+  <rect x="28" y="252" width="79.6" height="26" rx="13" fill="#ec4899" fill-opacity=".14" stroke="#ec4899" stroke-opacity=".55"/><text x="67.8" y="269" text-anchor="middle" font-size="12" font-weight="600" fill="#e4e4e7">Power BI</text><rect x="115.6" y="252" width="58" height="26" rx="13" fill="#ec4899" fill-opacity=".14" stroke="#ec4899" stroke-opacity=".55"/><text x="144.6" y="269" text-anchor="middle" font-size="12" font-weight="600" fill="#e4e4e7">D3.js</text><rect x="181.6" y="252" width="108.4" height="26" rx="13" fill="#ec4899" fill-opacity=".14" stroke="#ec4899" stroke-opacity=".55"/><text x="235.8" y="269" text-anchor="middle" font-size="12" font-weight="600" fill="#e4e4e7">KPI tracking</text>
+</svg>
