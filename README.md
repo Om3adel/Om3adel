@@ -1,7 +1,7 @@
 <!-- ================== MISSION CONTROL · Omar Mohamed Adel ================== -->
 
 <p align="center">
-  <img src="/assets/mission-banner.svg?v=2" width="100%" alt="Omar Mohamed Adel - Data Analyst and Power BI Specialist" />
+  <img src="./assets/mission-banner.svg?v=2" width="100%" alt="Omar Mohamed Adel - Data Analyst and Power BI Specialist" />
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@
   <a href="https://www.upwork.com/freelancers/~012631ea7034870352"><img src="https://img.shields.io/badge/Upwork-0A0A0F?style=for-the-badge&logo=upwork&logoColor=8B5CF6" alt="Upwork" /></a>
   <a href="https://x.com/OmarMoh10350888"><img src="https://img.shields.io/badge/X-0A0A0F?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:0mer3adl@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Om3adel&label=Mission+views&color=8b5cf6&style=flat-square" alt="Profile views" />
 </p>
 
 <br/>
